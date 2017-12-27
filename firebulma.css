@@ -1,0 +1,12 @@
+.container{
+    padding: 66px;
+}
+
+.thanks{
+    text-align: center;
+    padding: 8px;
+    background: lightcoral;
+    color: white;
+    margin-bottom: 8px;
+    display: none;
+}
